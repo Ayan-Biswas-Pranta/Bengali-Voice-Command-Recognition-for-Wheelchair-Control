@@ -14,4 +14,4 @@ Despite being one of the most widely spoken languages of the world, no significa
   src="comparison.PNG"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 300px; height:300px">
+  style="display: inline-block; margin: 0 auto; max-width: 400px; height:400px">
